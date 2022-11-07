@@ -14,6 +14,8 @@
 <br />
 <br />
 
+---
+
 ### **Reach out to me**
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/>][twitter]
