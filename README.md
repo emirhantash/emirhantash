@@ -5,11 +5,20 @@
 ## **Computer Engineer | Student**
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### **Reach out to me**
 
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/>][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/stackoverflow.svg" align="left"/>][stackoverflow]
 
 <br />
 <br />
@@ -44,3 +53,4 @@
 
 [twitter]:https://twitter.com/emirhanxcxc
 [linkedin]:https://www.linkedin.com/in/tasemirhan/?locale=en_US
+[stackoverflow]:https://stackoverflow.com/users/19809777/emirhantash
