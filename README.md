@@ -52,5 +52,5 @@
 
 
 [twitter]:https://twitter.com/emirhanxcxc
-[linkedin]:https://www.linkedin.com/in/tasemirhan/?locale=en_US
+[linkedin]:https://www.linkedin.com/in/tasemirhan
 [stackoverflow]:https://stackoverflow.com/users/19809777/emirhantash
