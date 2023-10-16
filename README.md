@@ -43,6 +43,10 @@
 
 <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" align="left" width="50">
 
+<img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon.png" align="left" width="25">
+
+
+
 
 
 <br />
