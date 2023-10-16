@@ -41,7 +41,7 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png?size=48" align="left" width="25">
 
-<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" align="left" width="40">
+<img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" align="left" width="60">
 
 
 
