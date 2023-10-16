@@ -45,6 +45,7 @@
 
 <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon.png" align="left" width="25">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" width="25">
 
 
 
