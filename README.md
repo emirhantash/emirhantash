@@ -68,6 +68,6 @@
 </details>
 
 
-[twitter]:https://twitter.com/emirhanxcxc
+[twitter]:https://twitter.com/jeuskiee
 [linkedin]:https://www.linkedin.com/in/tasemirhan
 [stackoverflow]:https://stackoverflow.com/users/19809777/emirhantash
