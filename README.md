@@ -15,7 +15,7 @@
 
 ### **About Me**
 
-<p align="left">As a currently computer engineering student at Erciyes University, I am passionate about using technology to solve complex problems and make a positive impact on the world. With experience in software development, I have developed a strong foundation in programming languages such as C, C#, Java and Web (HTML, CSS, JavaScript). As a creative problem solver and team player, I am committed to delivering high-quality work and exceeding expectations. I am eager to connect with other technology professionals and explore new opportunities for growth and development.</p>
+<p align="left">As a currently computer engineering student at Erciyes University, I am passionate about using technology to solve complex problems and make a positive impact on the world. With experience in software development, I have developed a strong foundation in programming languages such as C, C#, Java and Web (HTML, CSS, JavaScript). As a creative problem solver and team player, I am committed to delivering high-quality work and exceeding expectations.</p>
 
 <br />
 <br />
