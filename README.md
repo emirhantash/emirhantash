@@ -3,8 +3,6 @@
 ## **Computer Engineer | Student**
 <br />
 <br />
-<br />
-<br />
 
 ### **About Me**
 
