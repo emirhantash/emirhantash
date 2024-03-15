@@ -1,5 +1,3 @@
-<img src="https://i.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.webp" align="right" width="350" height="250">
-
 ### ***Hi there, I'm Emirhan.*** :blush:
 
 ## **Computer Engineer | Student**
@@ -7,11 +5,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-
----
 
 ### **About Me**
 
